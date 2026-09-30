@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+pyautogui
+Pillow
+opencv-python
+pytesseract
+python-dotenv
+pytest
